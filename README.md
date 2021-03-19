@@ -1,4 +1,4 @@
-> - <h3>Data Analysis using Visualization to Find Patterns in INDIAN CUISINE</h3>
+> - <h3>Data Analysis for INDIAN CUISINE</h3>
 > 
 
 
