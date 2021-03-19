@@ -1,0 +1,5 @@
+> - <b>Pre - Post Profiling</b>
+
+  * This Folder contains 2 files
+      - A. Pre-Profiling Report -> to check any anamoly (missing value , incorrect enteries) in dataset
+      - B. Post-Profiling Report -> Post data Cleaning , analysis report to check data correctnes
